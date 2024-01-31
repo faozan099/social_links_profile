@@ -27,7 +27,8 @@ Users should be able to:
 ![Desktop](./front_end/src/design/destkop-design.jpg)
 
 ### Links
-- Live Site URL: [Demo](https://your-live-site-url.com)
+- Live Site URL: [Demo](https://animated-pothos-f85cc1.netlify.app/)
+- API: [Here](https://be-social-link-profile.vercel.app)
 
 ## My process
 
