@@ -10,6 +10,7 @@ In this little project, I built a social link sharing profile. Created with Reac
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
+  - [End Point](#end-point)
 - [Author](#author)
 
 ## Overview
@@ -37,6 +38,12 @@ Users should be able to:
 - Node js
 - Express js
 - Cloudinary
+
+### End Point
+
+<summary><code>GET</code> <code><b>/</b></code> <code>/</code></summary>
+<summary><code>GET</code> <code><b>/</b></code> <code>/api/get</code></summary>
+<summary><code>POST</code> <code><b>/</b></code> <code>/api/post</code></summary>
 
 ## Author
 
