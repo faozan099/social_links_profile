@@ -22,8 +22,8 @@ Users should be able to:
 
 ### Screenshot
 
-![Mobile](./front_end/src/design/mobile-design.jpg)
-![Desktop](./front_end/src/design/destkop-design.jpg)
+![Mobile](./src/design/mobile-design.jpg)
+![Desktop](./src/design/destkop-design.jpg)
 
 ### Links
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
