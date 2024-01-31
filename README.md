@@ -1,6 +1,6 @@
 # Frontend Mentor - Social links profile solution
 
-In this small project, you'll build out your social link-sharing profile. Created with React Js, Express Js, NodeJs, MongoDB and Tailwind CSS
+In this little project, I built a social link sharing profile. Created with React Js, Express Js, NodeJs, MongoDB and Tailwind CSS
 
 ## Table of contents
 
