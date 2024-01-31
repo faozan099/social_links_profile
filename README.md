@@ -22,8 +22,8 @@ Users should be able to:
 
 ### Screenshot
 
-![Mobile](./src/design/mobile-design.jpg)
-![Desktop](./src/design/destkop-design.jpg)
+![Mobile](./front_end/src/design/mobile-design.jpg)
+![Desktop](./front_end/src/design/destkop-design.jpg)
 
 ### Links
 - Live Site URL: [Demo](https://animated-pothos-f85cc1.netlify.app/)
