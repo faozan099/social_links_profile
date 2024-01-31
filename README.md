@@ -27,7 +27,7 @@ Users should be able to:
 ![Desktop](./front_end/src/design/destkop-design.jpg)
 
 ### Links
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Demo](https://your-live-site-url.com)
 
 ## My process
 
